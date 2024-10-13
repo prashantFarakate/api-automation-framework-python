@@ -19,7 +19,9 @@ class TestRestfulBookerAPI:
         assert response.status_code == 200
 
     def test_get_booking_by_id_json_schema(self):
-        response = api_client.get_booking_by_id(id=1)
+        ids = api_client.get_booking_ids()
+        id = ids.as_dict[0]["bookingid"]
+        response = api_client.get_booking_by_id(id=id)
         assert response.status_code == 200
         with open("test_data/getBooking_schema.json", "r") as schema_file:
             schema = json.load(schema_file)
@@ -66,7 +68,7 @@ class TestRestfulBookerAPI:
 
         assert response.status_code == 200
         assert response.as_dict["firstname"] == "Sachin"
-        assert response.as_dict["lastname"] == "khot"
+        assert response.as_dict["lastname"] == "Khot"
         assert response.as_dict["totalprice"] == 1200
         assert response.as_dict["depositpaid"] == True
         assert response.as_dict["additionalneeds"] == "Lunch"
