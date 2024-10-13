@@ -26,8 +26,12 @@ This project is an automation framework for testing APIs using Python and pytest
 
 ## Installation
 To install the necessary dependencies, run:
-```pip install -r requirements.txt```
+```bash 
+pip install -r requirements.txt
+```
 
 Run the test using:
-```pytest -v -s --html=reports/Test_Execution_Report.html```
+```bash
+pytest -v -s --html=reports/Test_Execution_Report.html
+```
 
