@@ -1,0 +1,250 @@
+2024-10-13 20:09:27,419 : INFO :  --- Test Case 1 ---
+2024-10-13 20:09:27,419 : INFO :  --- GET - all booking ids ---
+2024-10-13 20:17:07,191 : INFO :  --- Test Case 1 ---
+2024-10-13 20:17:07,191 : INFO :  --- GET - all booking ids ---
+2024-10-13 20:17:08,700 : INFO :  --- Test Case 2 ---
+2024-10-13 20:17:08,700 : INFO :  --- GET - booking by id ---
+2024-10-13 20:17:11,812 : INFO :  --- Test Case 4 ---
+2024-10-13 20:17:11,812 : INFO :  --- GET - Validate Get Booking By ID JSON Schema ---
+2024-10-13 20:17:14,773 : INFO :  --- Test Case 3 ---
+2024-10-13 20:17:14,773 : INFO :  --- POST : Create Booking  ---
+2024-10-13 20:17:16,108 : INFO :  --- Test Case 5 ---
+2024-10-13 20:17:16,108 : INFO :  --- PUT: Update Booking  ---
+2024-10-13 20:17:18,839 : INFO :  --- Test Case 6 ---
+2024-10-13 20:17:18,839 : INFO :  --- PATCH: Partial Update Booking ---
+2024-10-13 20:17:21,712 : INFO :  --- Test Case 6 ---
+2024-10-13 20:17:21,712 : INFO :  --- DELETE: Delete Booking ---
+2024-10-13 20:19:44,737 : INFO :  --- Test Case 1 ---
+2024-10-13 20:19:44,737 : INFO :  --- GET - all booking ids ---
+2024-10-13 20:19:46,399 : INFO : Test execution completed
+2024-10-13 20:19:46,399 : INFO :  --- Test Case 2 ---
+2024-10-13 20:19:46,399 : INFO :  --- GET - booking by id ---
+2024-10-13 20:19:49,376 : INFO : Test execution completed
+2024-10-13 20:19:49,376 : INFO :  --- Test Case 4 ---
+2024-10-13 20:19:49,376 : INFO :  --- GET - Validate Get Booking By ID JSON Schema ---
+2024-10-13 20:19:52,534 : INFO : Test execution completed
+2024-10-13 20:19:52,534 : INFO :  --- Test Case 3 ---
+2024-10-13 20:19:52,534 : INFO :  --- POST : Create Booking  ---
+2024-10-13 20:19:53,760 : INFO : Test execution completed
+2024-10-13 20:19:53,760 : INFO :  --- Test Case 5 ---
+2024-10-13 20:19:53,760 : INFO :  --- PUT: Update Booking  ---
+2024-10-13 20:19:56,939 : INFO : Test execution completed
+2024-10-13 20:19:56,955 : INFO :  --- Test Case 6 ---
+2024-10-13 20:19:56,955 : INFO :  --- PATCH: Partial Update Booking ---
+2024-10-13 20:19:59,978 : INFO : Test execution completed
+2024-10-13 20:19:59,978 : INFO :  --- Test Case 6 ---
+2024-10-13 20:19:59,978 : INFO :  --- DELETE: Delete Booking ---
+2024-10-13 20:20:02,995 : INFO : Test execution completed
+2024-10-13 20:22:47,928 : INFO :  --- Test Case 1 ---
+2024-10-13 20:22:47,928 : INFO :  --- Test Case 1 ---
+2024-10-13 20:22:47,928 : INFO :  --- GET - all booking ids ---
+2024-10-13 20:22:47,928 : INFO :  --- GET - all booking ids ---
+2024-10-13 20:22:48,038 : INFO :  --- Test Case 2 ---
+2024-10-13 20:22:48,038 : INFO :  --- Test Case 2 ---
+2024-10-13 20:22:48,038 : INFO :  --- GET - booking by id ---
+2024-10-13 20:22:48,038 : INFO :  --- GET - booking by id ---
+2024-10-13 20:22:48,038 : INFO :  --- Test Case 4 ---
+2024-10-13 20:22:48,038 : INFO :  --- Test Case 4 ---
+2024-10-13 20:22:48,038 : INFO :  --- GET - Validate Get Booking By ID JSON Schema ---
+2024-10-13 20:22:48,038 : INFO :  --- GET - Validate Get Booking By ID JSON Schema ---
+2024-10-13 20:22:48,054 : INFO :  --- Test Case 3 ---
+2024-10-13 20:22:48,054 : INFO :  --- Test Case 3 ---
+2024-10-13 20:22:48,054 : INFO :  --- POST : Create Booking  ---
+2024-10-13 20:22:48,054 : INFO :  --- POST : Create Booking  ---
+2024-10-13 20:22:49,445 : INFO : Test execution completed
+2024-10-13 20:22:49,445 : INFO : Test execution completed
+2024-10-13 20:22:49,445 : INFO :  --- Test Case 5 ---
+2024-10-13 20:22:49,445 : INFO :  --- Test Case 5 ---
+2024-10-13 20:22:49,445 : INFO :  --- PUT: Update Booking  ---
+2024-10-13 20:22:49,445 : INFO :  --- PUT: Update Booking  ---
+2024-10-13 20:22:49,447 : INFO :  --- Test Case 6 ---
+2024-10-13 20:22:49,447 : INFO :  --- Test Case 6 ---
+2024-10-13 20:22:49,447 : INFO :  --- PATCH: Partial Update Booking ---
+2024-10-13 20:22:49,447 : INFO :  --- PATCH: Partial Update Booking ---
+2024-10-13 20:22:49,458 : INFO :  --- Test Case 6 ---
+2024-10-13 20:22:49,458 : INFO :  --- Test Case 6 ---
+2024-10-13 20:22:49,458 : INFO :  --- DELETE: Delete Booking ---
+2024-10-13 20:22:49,458 : INFO :  --- DELETE: Delete Booking ---
+2024-10-13 20:23:43,937 : INFO :  --- Test Case 1 ---
+2024-10-13 20:23:43,937 : INFO :  --- Test Case 1 ---
+2024-10-13 20:23:43,937 : INFO :  --- GET - all booking ids ---
+2024-10-13 20:23:43,937 : INFO :  --- GET - all booking ids ---
+2024-10-13 20:23:44,047 : INFO :  --- Test Case 2 ---
+2024-10-13 20:23:44,047 : INFO :  --- Test Case 2 ---
+2024-10-13 20:23:44,047 : INFO :  --- GET - booking by id ---
+2024-10-13 20:23:44,047 : INFO :  --- GET - booking by id ---
+2024-10-13 20:23:44,047 : INFO :  --- Test Case 4 ---
+2024-10-13 20:23:44,047 : INFO :  --- Test Case 4 ---
+2024-10-13 20:23:44,047 : INFO :  --- GET - Validate Get Booking By ID JSON Schema ---
+2024-10-13 20:23:44,047 : INFO :  --- GET - Validate Get Booking By ID JSON Schema ---
+2024-10-13 20:23:44,047 : INFO :  --- Test Case 3 ---
+2024-10-13 20:23:44,047 : INFO :  --- Test Case 3 ---
+2024-10-13 20:23:44,047 : INFO :  --- POST : Create Booking  ---
+2024-10-13 20:23:44,047 : INFO :  --- POST : Create Booking  ---
+2024-10-13 20:23:45,194 : INFO : Test execution completed
+2024-10-13 20:23:45,194 : INFO : Test execution completed
+2024-10-13 20:23:45,194 : INFO :  --- Test Case 5 ---
+2024-10-13 20:23:45,194 : INFO :  --- Test Case 5 ---
+2024-10-13 20:23:45,194 : INFO :  --- PUT: Update Booking  ---
+2024-10-13 20:23:45,194 : INFO :  --- PUT: Update Booking  ---
+2024-10-13 20:23:45,210 : INFO :  --- Test Case 6 ---
+2024-10-13 20:23:45,210 : INFO :  --- Test Case 6 ---
+2024-10-13 20:23:45,210 : INFO :  --- PATCH: Partial Update Booking ---
+2024-10-13 20:23:45,210 : INFO :  --- PATCH: Partial Update Booking ---
+2024-10-13 20:23:45,225 : INFO :  --- Test Case 6 ---
+2024-10-13 20:23:45,225 : INFO :  --- Test Case 6 ---
+2024-10-13 20:23:45,225 : INFO :  --- DELETE: Delete Booking ---
+2024-10-13 20:23:45,225 : INFO :  --- DELETE: Delete Booking ---
+2024-10-13 20:25:20,650 : INFO :  --- Test Case 1 ---
+2024-10-13 20:25:20,650 : INFO :  --- GET - all booking ids ---
+2024-10-13 20:25:20,793 : INFO :  --- Test Case 2 ---
+2024-10-13 20:25:20,793 : INFO :  --- GET - booking by id ---
+2024-10-13 20:25:20,793 : INFO :  --- Test Case 4 ---
+2024-10-13 20:25:20,793 : INFO :  --- GET - Validate Get Booking By ID JSON Schema ---
+2024-10-13 20:25:20,807 : INFO :  --- Test Case 3 ---
+2024-10-13 20:25:20,807 : INFO :  --- POST : Create Booking  ---
+2024-10-13 20:25:21,976 : INFO : Test execution completed
+2024-10-13 20:25:21,976 : INFO :  --- Test Case 5 ---
+2024-10-13 20:25:21,976 : INFO :  --- PUT: Update Booking  ---
+2024-10-13 20:25:21,981 : INFO :  --- Test Case 6 ---
+2024-10-13 20:25:21,981 : INFO :  --- PATCH: Partial Update Booking ---
+2024-10-13 20:25:21,992 : INFO :  --- Test Case 6 ---
+2024-10-13 20:25:21,992 : INFO :  --- DELETE: Delete Booking ---
+2024-10-13 20:25:53,148 : INFO :  --- Test Case 1 ---
+2024-10-13 20:25:53,148 : INFO :  --- GET - all booking ids ---
+2024-10-13 20:25:54,530 : INFO : Test execution completed
+2024-10-13 20:25:54,530 : INFO :  --- Test Case 2 ---
+2024-10-13 20:25:54,530 : INFO :  --- GET - booking by id ---
+2024-10-13 20:25:57,089 : INFO : Test execution completed
+2024-10-13 20:25:57,089 : INFO :  --- Test Case 4 ---
+2024-10-13 20:25:57,089 : INFO :  --- GET - Validate Get Booking By ID JSON Schema ---
+2024-10-13 20:25:59,648 : INFO : Test execution completed
+2024-10-13 20:25:59,648 : INFO :  --- Test Case 3 ---
+2024-10-13 20:25:59,648 : INFO :  --- POST : Create Booking  ---
+2024-10-13 20:26:00,877 : INFO : Test execution completed
+2024-10-13 20:26:00,877 : INFO :  --- Test Case 5 ---
+2024-10-13 20:26:00,877 : INFO :  --- PUT: Update Booking  ---
+2024-10-13 20:26:03,742 : INFO : Test execution completed
+2024-10-13 20:26:03,742 : INFO :  --- Test Case 6 ---
+2024-10-13 20:26:03,742 : INFO :  --- PATCH: Partial Update Booking ---
+2024-10-13 20:26:06,140 : INFO : Test execution completed
+2024-10-13 20:26:06,140 : INFO :  --- Test Case 6 ---
+2024-10-13 20:26:06,140 : INFO :  --- DELETE: Delete Booking ---
+2024-10-13 20:26:08,675 : INFO : Test execution completed
+2024-10-13 20:27:12,738 : INFO :  --- Test Case 1 ---
+2024-10-13 20:27:12,738 : INFO :  --- Test Case 1 ---
+2024-10-13 20:27:12,738 : INFO :  --- GET - all booking ids ---
+2024-10-13 20:27:12,738 : INFO :  --- GET - all booking ids ---
+2024-10-13 20:27:12,738 : INFO : The URL for the API request is: https://restful-booker.herokuapp.com/booking
+2024-10-13 20:27:12,738 : INFO : The URL for the API request is: https://restful-booker.herokuapp.com/booking
+2024-10-13 20:27:14,190 : INFO : Test execution completed
+2024-10-13 20:27:14,190 : INFO : Test execution completed
+2024-10-13 20:27:14,190 : INFO :  --- Test Case 2 ---
+2024-10-13 20:27:14,190 : INFO :  --- Test Case 2 ---
+2024-10-13 20:27:14,190 : INFO :  --- GET - booking by id ---
+2024-10-13 20:27:14,190 : INFO :  --- GET - booking by id ---
+2024-10-13 20:27:14,190 : INFO : The URL for the API request is: https://restful-booker.herokuapp.com/booking
+2024-10-13 20:27:14,190 : INFO : The URL for the API request is: https://restful-booker.herokuapp.com/booking
+2024-10-13 20:27:17,492 : INFO : Test execution completed
+2024-10-13 20:27:17,492 : INFO : Test execution completed
+2024-10-13 20:27:17,492 : INFO :  --- Test Case 4 ---
+2024-10-13 20:27:17,492 : INFO :  --- Test Case 4 ---
+2024-10-13 20:27:17,492 : INFO :  --- GET - Validate Get Booking By ID JSON Schema ---
+2024-10-13 20:27:17,492 : INFO :  --- GET - Validate Get Booking By ID JSON Schema ---
+2024-10-13 20:27:17,492 : INFO : The URL for the API request is: https://restful-booker.herokuapp.com/booking
+2024-10-13 20:27:17,492 : INFO : The URL for the API request is: https://restful-booker.herokuapp.com/booking
+2024-10-13 20:27:20,444 : INFO : Test execution completed
+2024-10-13 20:27:20,444 : INFO : Test execution completed
+2024-10-13 20:27:20,446 : INFO :  --- Test Case 3 ---
+2024-10-13 20:27:20,446 : INFO :  --- Test Case 3 ---
+2024-10-13 20:27:20,447 : INFO :  --- POST : Create Booking  ---
+2024-10-13 20:27:20,447 : INFO :  --- POST : Create Booking  ---
+2024-10-13 20:27:21,567 : INFO : Test execution completed
+2024-10-13 20:27:21,567 : INFO : Test execution completed
+2024-10-13 20:27:21,570 : INFO :  --- Test Case 5 ---
+2024-10-13 20:27:21,570 : INFO :  --- Test Case 5 ---
+2024-10-13 20:27:21,570 : INFO :  --- PUT: Update Booking  ---
+2024-10-13 20:27:21,570 : INFO :  --- PUT: Update Booking  ---
+2024-10-13 20:27:21,570 : INFO : The URL for the API request is: https://restful-booker.herokuapp.com/booking
+2024-10-13 20:27:21,570 : INFO : The URL for the API request is: https://restful-booker.herokuapp.com/booking
+2024-10-13 20:27:24,157 : INFO : Test execution completed
+2024-10-13 20:27:24,157 : INFO : Test execution completed
+2024-10-13 20:27:24,157 : INFO :  --- Test Case 6 ---
+2024-10-13 20:27:24,157 : INFO :  --- Test Case 6 ---
+2024-10-13 20:27:24,157 : INFO :  --- PATCH: Partial Update Booking ---
+2024-10-13 20:27:24,157 : INFO :  --- PATCH: Partial Update Booking ---
+2024-10-13 20:27:24,157 : INFO : The URL for the API request is: https://restful-booker.herokuapp.com/booking
+2024-10-13 20:27:24,157 : INFO : The URL for the API request is: https://restful-booker.herokuapp.com/booking
+2024-10-13 20:27:26,521 : INFO : Test execution completed
+2024-10-13 20:27:26,521 : INFO : Test execution completed
+2024-10-13 20:27:26,523 : INFO :  --- Test Case 6 ---
+2024-10-13 20:27:26,523 : INFO :  --- Test Case 6 ---
+2024-10-13 20:27:26,523 : INFO :  --- DELETE: Delete Booking ---
+2024-10-13 20:27:26,523 : INFO :  --- DELETE: Delete Booking ---
+2024-10-13 20:27:26,523 : INFO : The URL for the API request is: https://restful-booker.herokuapp.com/booking
+2024-10-13 20:27:26,523 : INFO : The URL for the API request is: https://restful-booker.herokuapp.com/booking
+2024-10-13 20:27:29,255 : INFO : Test execution completed
+2024-10-13 20:27:29,255 : INFO : Test execution completed
+2024-10-13 20:29:35,264 : INFO :  --- Test Case 1 ---
+2024-10-13 20:29:35,264 : INFO :  --- GET - all booking ids ---
+2024-10-13 20:29:36,763 : INFO : Test execution completed
+2024-10-13 20:29:36,763 : INFO :  --- Test Case 2 ---
+2024-10-13 20:29:36,779 : INFO :  --- GET - booking by id ---
+2024-10-13 20:29:39,399 : INFO : Test execution completed
+2024-10-13 20:29:39,399 : INFO :  --- Test Case 4 ---
+2024-10-13 20:29:39,399 : INFO :  --- GET - Validate Get Booking By ID JSON Schema ---
+2024-10-13 20:29:42,100 : INFO : Test execution completed
+2024-10-13 20:29:42,100 : INFO :  --- Test Case 3 ---
+2024-10-13 20:29:42,100 : INFO :  --- POST : Create Booking  ---
+2024-10-13 20:29:43,272 : INFO : Test execution completed
+2024-10-13 20:29:43,279 : INFO :  --- Test Case 5 ---
+2024-10-13 20:29:43,279 : INFO :  --- PUT: Update Booking  ---
+2024-10-13 20:29:45,854 : INFO : Test execution completed
+2024-10-13 20:29:45,856 : INFO :  --- Test Case 6 ---
+2024-10-13 20:29:45,856 : INFO :  --- PATCH: Partial Update Booking ---
+2024-10-13 20:29:48,573 : INFO : Test execution completed
+2024-10-13 20:29:48,573 : INFO :  --- Test Case 6 ---
+2024-10-13 20:29:48,573 : INFO :  --- DELETE: Delete Booking ---
+2024-10-13 20:29:51,229 : INFO : Test execution completed
+2024-10-13 20:35:55,912 : INFO :  --- Test Case 1 ---
+2024-10-13 20:35:55,912 : INFO :  --- GET - all booking ids ---
+2024-10-13 20:35:57,387 : INFO : Test execution completed
+2024-10-13 20:35:57,387 : INFO :  --- Test Case 2 ---
+2024-10-13 20:35:57,403 : INFO :  --- GET - booking by id ---
+2024-10-13 20:36:00,041 : INFO : Test execution completed
+2024-10-13 20:36:00,041 : INFO :  --- Test Case 4 ---
+2024-10-13 20:36:00,041 : INFO :  --- GET - Validate Get Booking By ID JSON Schema ---
+2024-10-13 20:36:02,685 : INFO : Test execution completed
+2024-10-13 20:36:02,685 : INFO :  --- Test Case 3 ---
+2024-10-13 20:36:02,685 : INFO :  --- POST : Create Booking  ---
+2024-10-13 20:36:03,813 : INFO : Test execution completed
+2024-10-13 20:36:03,813 : INFO :  --- Test Case 5 ---
+2024-10-13 20:36:03,813 : INFO :  --- PUT: Update Booking  ---
+2024-10-13 20:36:06,570 : INFO : Test execution completed
+2024-10-13 20:36:06,570 : INFO :  --- Test Case 6 ---
+2024-10-13 20:36:06,570 : INFO :  --- PATCH: Partial Update Booking ---
+2024-10-13 20:36:09,124 : INFO : Test execution completed
+2024-10-13 20:36:09,139 : INFO :  --- Test Case 6 ---
+2024-10-13 20:36:09,139 : INFO :  --- DELETE: Delete Booking ---
+2024-10-13 20:36:11,900 : INFO : Test execution completed
+2024-10-13 20:37:01,353 : INFO :  --- Test Case 1 ---
+2024-10-13 20:37:01,353 : INFO :  --- GET - all booking ids ---
+2024-10-13 20:37:02,705 : INFO : Test execution completed
+2024-10-13 20:37:02,705 : INFO :  --- Test Case 2 ---
+2024-10-13 20:37:02,705 : INFO :  --- GET - booking by id ---
+2024-10-13 20:37:05,221 : INFO : Test execution completed
+2024-10-13 20:37:05,221 : INFO :  --- Test Case 4 ---
+2024-10-13 20:37:05,221 : INFO :  --- GET - Validate Get Booking By ID JSON Schema ---
+2024-10-13 20:37:07,632 : INFO : Test execution completed
+2024-10-13 20:37:07,632 : INFO :  --- Test Case 3 ---
+2024-10-13 20:37:07,632 : INFO :  --- POST : Create Booking  ---
+2024-10-13 20:37:08,745 : INFO : Test execution completed
+2024-10-13 20:37:08,745 : INFO :  --- Test Case 5 ---
+2024-10-13 20:37:08,745 : INFO :  --- PUT: Update Booking  ---
+2024-10-13 20:37:11,143 : INFO : Test execution completed
+2024-10-13 20:37:11,143 : INFO :  --- Test Case 6 ---
+2024-10-13 20:37:11,143 : INFO :  --- PATCH: Partial Update Booking ---
+2024-10-13 20:37:13,588 : INFO : Test execution completed
+2024-10-13 20:37:13,603 : INFO :  --- Test Case 6 ---
+2024-10-13 20:37:13,603 : INFO :  --- DELETE: Delete Booking ---
+2024-10-13 20:37:16,031 : INFO : Test execution completed
