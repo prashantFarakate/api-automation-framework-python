@@ -13,4 +13,5 @@ To install the necessary dependencies, run:
 pip install -r requirements.txt
 
 Run the test using:
-pytest
+pytest -v -s --html=reports/Test_Execution_Report.html
+

@@ -27,4 +27,5 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest 
+          pytest -v -s --html=reports/Test_Execution_Report.html
+ 

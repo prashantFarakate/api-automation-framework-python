@@ -8,14 +8,12 @@ import jsonschema.exceptions
 class TestRestfulBookerAPI:
     def test_get_booking_ids(self):
         response = api_client.get_booking_ids()
-        print(response.as_dict)
         assert response.status_code == 200
 
     def test_get_booking_by_id(self):
         ids = api_client.get_booking_ids()
         id = ids.as_dict[0]["bookingid"]
         response = api_client.get_booking_by_id(id=id)
-        print(response.as_dict)
         assert response.status_code == 200
 
     def test_get_booking_by_id_json_schema(self):
