@@ -35,3 +35,4 @@ Run the test using:
 pytest -v -s --html=reports/Test_Execution_Report.html
 ```
 
+Auther Name - Prashant Farakate
