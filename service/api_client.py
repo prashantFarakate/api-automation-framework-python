@@ -1,7 +1,6 @@
 from utilities.read_properties import ReadConfig
 from tests.conftest import access_token
 from service.api_request import APIRequest
-
 api_request = APIRequest()
 
 class APIClient:

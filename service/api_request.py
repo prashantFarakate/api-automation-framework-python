@@ -1,9 +1,6 @@
 import requests
 from dataclasses import dataclass
 
-from tornado.httputil import url_concat
-
-
 @dataclass
 class APIResponse:
     status_code : str
@@ -83,8 +80,6 @@ class APIRequest:
         headers = {"Content-Type": "application/json"}
         cookies = {"token": token}
         response = requests.delete(url, headers=headers, cookies=cookies)
-
-        # print(response.status_code, response.json())
         return self.get_response(response)
 
 
