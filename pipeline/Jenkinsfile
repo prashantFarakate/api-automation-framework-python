@@ -11,16 +11,16 @@ pipeline {
 
         stage('Set Up Python') {
             steps {
-                // Set up Python environment
-                sh 'python3 -m venv venv'
-                sh '. venv/bin/activate && pip install -r requirements.txt'
+                // Set up Python environment for Windows
+                bat 'python -m venv venv'
+                bat '.\\venv\\Scripts\\activate && pip install -r requirements.txt'
             }
         }
 
         stage('Run Tests') {
             steps {
                 // Run pytest and generate HTML report
-                sh '. venv/bin/activate && pytest -v -s --html=reports/Test_Execution_Report.html'
+                bat '.\\venv\\Scripts\\activate && pytest -v -s --html=reports\\Test_Execution_Report.html'
             }
         }
     }
@@ -28,7 +28,7 @@ pipeline {
     post {
         always {
             // Archive test reports
-            archiveArtifacts artifacts: 'reports/Test_Execution_Report.html', fingerprint: true
+            archiveArtifacts artifacts: 'reports\\Test_Execution_Report.html', fingerprint: true
         }
     }
 }
