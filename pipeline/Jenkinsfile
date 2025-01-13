@@ -20,7 +20,7 @@ pipeline {
         stage('Run Tests') {
             steps {
                 // Run pytest and generate HTML report
-                bat '.\\venv\\Scripts\\activate && pytest -v -s --html=reports\\Test_Execution_Report.html'
+                bat '.\\venv\\Scripts\\activate && pytest -v -s --self-contained-html --html=reports\\Test_Execution_Report.html'
             }
         }
     }
