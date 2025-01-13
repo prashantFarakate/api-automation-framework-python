@@ -1,0 +1,21 @@
+2025-01-14 00:33:17,178 : INFO :  --- Test Case 1 ---
+2025-01-14 00:33:17,178 : INFO :  --- GET - all booking ids ---
+2025-01-14 00:33:18,028 : INFO : Test execution completed
+2025-01-14 00:33:18,030 : INFO :  --- Test Case 2 ---
+2025-01-14 00:33:18,030 : INFO :  --- GET - booking by id ---
+2025-01-14 00:33:20,179 : INFO : Test execution completed
+2025-01-14 00:33:20,181 : INFO :  --- Test Case 4 ---
+2025-01-14 00:33:20,181 : INFO :  --- GET - Validate Get Booking By ID JSON Schema ---
+2025-01-14 00:33:22,029 : INFO : Test execution completed
+2025-01-14 00:33:22,031 : INFO :  --- Test Case 3 ---
+2025-01-14 00:33:22,031 : INFO :  --- POST : Create Booking  ---
+2025-01-14 00:33:22,894 : INFO : Test execution completed
+2025-01-14 00:33:22,897 : INFO :  --- Test Case 5 ---
+2025-01-14 00:33:22,897 : INFO :  --- PUT: Update Booking  ---
+2025-01-14 00:33:24,787 : INFO : Test execution completed
+2025-01-14 00:33:24,789 : INFO :  --- Test Case 6 ---
+2025-01-14 00:33:24,789 : INFO :  --- PATCH: Partial Update Booking ---
+2025-01-14 00:33:26,527 : INFO : Test execution completed
+2025-01-14 00:33:26,529 : INFO :  --- Test Case 6 ---
+2025-01-14 00:33:26,529 : INFO :  --- DELETE: Delete Booking ---
+2025-01-14 00:33:28,275 : INFO : Test execution completed
