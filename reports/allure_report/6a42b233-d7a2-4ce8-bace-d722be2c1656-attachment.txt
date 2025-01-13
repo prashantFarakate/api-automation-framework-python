@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_api.py:47  --- Test Case 3 ---
+[32mINFO    [0m root:test_api.py:48  --- POST : Create Booking  ---
+[32mINFO    [0m root:test_api.py:67 Test execution completed

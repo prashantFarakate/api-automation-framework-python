@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_api.py:31  --- Test Case 4 ---
+[32mINFO    [0m root:test_api.py:32  --- GET - Validate Get Booking By ID JSON Schema ---
+[32mINFO    [0m root:test_api.py:44 Test execution completed

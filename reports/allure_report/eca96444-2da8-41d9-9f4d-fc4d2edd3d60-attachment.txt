@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_api.py:116  --- Test Case 6 ---
+[32mINFO    [0m root:test_api.py:117  --- DELETE: Delete Booking ---
+[32mINFO    [0m root:test_api.py:123 Test execution completed

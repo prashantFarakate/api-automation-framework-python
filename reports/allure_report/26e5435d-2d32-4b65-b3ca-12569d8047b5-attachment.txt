@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_api.py:21  --- Test Case 2 ---
+[32mINFO    [0m root:test_api.py:22  --- GET - booking by id ---
+[32mINFO    [0m root:test_api.py:28 Test execution completed

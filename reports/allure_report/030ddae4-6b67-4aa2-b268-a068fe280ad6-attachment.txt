@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_api.py:98  --- Test Case 6 ---
+[32mINFO    [0m root:test_api.py:99  --- PATCH: Partial Update Booking ---
+[32mINFO    [0m root:test_api.py:113 Test execution completed
